@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+
+
+.headline#mainPage{
+    width: 300px;
+    background-color: orangered;
+    padding: 10px;
+    display: flex;
+    border:solid;
+    justify-content: center;
+    align-items: center;
+    
+
+}
