@@ -1,20 +1,23 @@
 body{
     background-color: aquamarine;
+    margin:20px;
+    padding:20px 20px 20px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }
 
 
-.headline#mainPage{
-    width: 300px;
+.headline#mainPage{ 
     background-color: orangered;
     padding: 10px;
-    position: relative;
     display: flex;
     border:solid;
     justify-content: center;
     text-align: center;
-    margin-left: 40% ;
-    margin-right: 50%;
-
-
+    align-items: center;
+    margin:0;
+    min-width :100%
+    
 
 }
